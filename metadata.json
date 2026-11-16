@@ -1,0 +1,6 @@
+{
+  "name": "Dragon Chaos",
+  "description": "Game chiến thuật đối kháng 2D thời gian thực 10v10 với bộ sưu tập 20 loài rồng huyền thoại, hệ thống kỹ năng chuyên sâu và đấu trường AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
